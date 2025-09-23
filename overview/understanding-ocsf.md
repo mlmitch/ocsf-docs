@@ -468,7 +468,7 @@ The event classes **may** include the Host profile and **may** include the Secur
 
 #### Identity & Access Management
 
-The event classes **would** include the Host profile, (due to actor.user), **may **include the Cloud profile, and **would not** include the Security Control profile.
+The event classes **would** include the Host profile, (due to `actor.user`), **may** include the Cloud profile, and **would not** include the Security Control profile.
 
 ### Personas and Profiles
 
